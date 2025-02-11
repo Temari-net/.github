@@ -1,2 +1,2 @@
-# .github
+# TEMARI-NET
 temari-net
